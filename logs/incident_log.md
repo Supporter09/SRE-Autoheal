@@ -1,0 +1,2 @@
+- 2025-07-02 04:31:47: Detected nginx failure.
+  - Recovery attempt: inactive
